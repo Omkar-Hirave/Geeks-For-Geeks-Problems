@@ -1,3 +1,4 @@
+// when there is loop at first head add following condition
 class Solution
 {
     //Function to remove a loop in the linked list.
